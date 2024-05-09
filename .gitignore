@@ -1,0 +1,5 @@
+# Godot 4+ specific ignores
+.godot/
+bin/terrarian_generator/godot-cpp/gen/
+bin/terrarian_generator/build/
+bin/terrarian_generator/.cache
